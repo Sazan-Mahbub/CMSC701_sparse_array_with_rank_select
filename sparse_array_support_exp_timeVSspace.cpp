@@ -448,8 +448,8 @@ int main() {
     vector<double> load;
     vector<double> total_time_list;
 
-//    for (int bitvec_size: _bitvect_sizes_)
-    for (double zero_fraction: _zero_fraction_list_)
+    for (int bitvec_size: _bitvect_sizes_)
+//    for (double zero_fraction: _zero_fraction_list_)
     {
         double total_time_final = 0;
 
