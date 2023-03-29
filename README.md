@@ -6,19 +6,19 @@
 
 Please use the following commands to run the code for each task:
 
-## Task1 – bit-vector rank:
+### Task1 – bit-vector rank:
 
 > gcc++ -o rank_support_exp -std=c++20 rank_support_exp.cpp
 
 > ./rank_support_exp.out
 
-## Task 2 — bit-vector select:
+### Task 2 — bit-vector select:
 
 > gcc++ -o select_support_exp -std=c++20 select_support_exp.cpp
 
 > ./select_support_exp.out
 
-## Task 3 — Implementing a sparse array using bitvector rank and select:
+### Task 3 — Implementing a sparse array using bitvector rank and select:
 
 To run the experiment of *runtime* vs *overall space*:
 
