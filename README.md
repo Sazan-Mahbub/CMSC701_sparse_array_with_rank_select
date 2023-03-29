@@ -27,7 +27,7 @@ To run the experiment of *runtime* vs *overall space*:
 > ./sparse_array_support_exp_timeVSspace.out
 
 
-To run the experiment of *runtime* vs *overall space*:
+To run the experiment of *runtime* vs *overall sparsity*:
 > gcc++ -o sparse_array_support_exp_timeVSsparsity -std=c++20 sparse_array_support_exp_timeVSsparsity.cpp
 
 > ./sparse_array_support_exp_timeVSsparsity.out
