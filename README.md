@@ -4,7 +4,7 @@
 
 <hr>
 
-Please use the following commands to run codes for each section:
+Please use the following commands to run the code for each task:
 
 ## Task1 – bit-vector rank:
 
