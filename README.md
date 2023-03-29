@@ -20,14 +20,14 @@ Please use the following commands to run the code for each task:
 
 ## Task 3 — Implementing a sparse array using bitvector rank and select:
 
-To run experiment of *runtime* vs *overall space*:
+To run the experiment of *runtime* vs *overall space*:
 
 > gcc++ -o sparse_array_support_exp_timeVSspace -std=c++20 sparse_array_support_exp_timeVSspace.cpp
 
 > ./sparse_array_support_exp_timeVSspace.out
 
 
-To run experiment of *runtime* vs *overall space*:
+To run the experiment of *runtime* vs *overall space*:
 > gcc++ -o sparse_array_support_exp_timeVSsparsity -std=c++20 sparse_array_support_exp_timeVSsparsity.cpp
 
 > ./sparse_array_support_exp_timeVSsparsity.out
